@@ -1,0 +1,56 @@
+.w{
+	font-size: 200%;
+	color: white;
+	margin-left: 100px;
+	margin-top: 10px;
+}
+.w1{
+	font-size: 150%;
+	color: white;
+	margin-left: 100px;
+}
+.w2{
+	font-size: 150%;
+	color: green;
+}
+.w3{
+	font-size: 150%;
+	color: black;
+}
+.bg{
+	background: #87CEEB;
+	background-size: cover;
+}
+.search{
+	position: absolute;
+	top: 24px;
+	right: 20px;
+}
+.pom{
+	margin-left: 490px;
+}
+.t{
+	margin-left: 300px;
+}
+.t2{
+	margin-left: 350px;
+}
+.t3{
+	margin-left: 350px;
+}
+.tb{
+   background: url("https://i.artfile.ru/1920x1200_849668_[www.ArtFile.ru].jpg") 50% 0% no-repeat;
+}
+td{
+   color: black;
+   border-top: 1px solid white;
+   padding: 10px 12px;
+   transition: .3s;
+}
+a{
+   text-decoration: none;
+   color: black;
+}
+.main tr:hover td{
+   background: #319EFF;
+}
